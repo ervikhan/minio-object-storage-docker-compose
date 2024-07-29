@@ -1,2 +1,13 @@
-# minio-object-storage-docker-compose
-This is docker compose code for deploy minio object storage via traefik.
+## Setup
+
+1. To deploy use deploy.sh
+    
+    ```yaml
+    ./deploy.sh
+    ```
+    
+2. To delete stach/down service
+    
+    ```yaml
+    ./down.sh
+    ```
